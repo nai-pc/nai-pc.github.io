@@ -4,11 +4,17 @@ body {
 }
 
 #top {
-  background-color: yellow;
+  background-color: blue;
   font-family: verdana;
 }
 
-h3 {
+#ad {
   background-color: yellow;
+  font-family: verdana;
+  font-color: white;
+}
+
+h3 {
+  background-color: blue;
   font-family: verdana;
 }
